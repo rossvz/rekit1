@@ -14,3 +14,4 @@ The cool part of this project is that it will also create an editor IDE at `loca
 
 This allows us to create new features/components/redux actions/tests etc. from within the browser. I believe its based on VS Code's editor engine.
 
+https://rekit1-vkhhrvneum.now.sh/
